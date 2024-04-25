@@ -1,15 +1,4 @@
 
-# pymongo[srv]==4.2.0
-# pandas
-# numpy
-# scikit-learn
-# pymongo
-# python-dotenv
-# PyYAML
-# scipy
-# xgboost==1.6.2
-# imblearn==0.0
-# -e .   #editable mode 
 
 dill==0.3.5.1
 dnspython==2.2.1
@@ -30,3 +19,4 @@ xgboost==1.6.2
 neuro-mf==0.0.5
 -e .
 
+ # 
