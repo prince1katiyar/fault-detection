@@ -30,7 +30,7 @@
 	bucket name: scania-sensor-pipeline   # what ever you want 
 	
 4. ECR repo to store/save docker image
-	566373416292.dkr.ecr.ap-south-1.amazonaws.com/sensor-fault    # url 
+	 679516651619.dkr.ecr.ap-south-1.amazonaws.com/sensor-live 
 	
 5. EC2 machine  Ubuntu  Created
 
